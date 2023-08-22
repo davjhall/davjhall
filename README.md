@@ -15,7 +15,7 @@
 
 ***
 
-### Your Friendly Neighborhood Weather App
+## Your Friendly Neighborhood Weather App
 
 <div>
 <a href="https://davjhall.github.io/the-friendly-neighborhood-weatherman/"><img src="https://github.com/davjhall/davjhall/assets/112351877/6e4a9e39-e290-4ea7-a6a0-a9cf929ce5f1" align="center" height="" width="100%" ></a></div>
