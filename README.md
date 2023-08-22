@@ -1,5 +1,5 @@
 <div>
-  <a href="https://www.linkedin.com/in/d-hall2305/"><img src="" align="center" height="" width="100%" ></a></div
+  <a href="https://www.linkedin.com/in/d-hall2305/"><img src="https://github.com/davjhall/davjhall/assets/112351877/5277da7b-903f-48c1-b137-7d94f3912dfe" align="center" height="" width="100%" ></a></div
 </div>
 
 ---
