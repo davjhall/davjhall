@@ -14,6 +14,10 @@
 [![Linkedin](https://img.shields.io/badge/Portfolio-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white)](http://https://davjhall.github.io/project-portfolio//)
 
 ***
+### My Portfolio 
+[![ScreenShot OF Portfolio](https://github.com/davjhall/davjhall/assets/112351877/d61f0caa-ff37-4300-809d-8718b41edb83)](https://davjhall.github.io/project-portfolio/)
+***
+
 
 ## Your Friendly Neighborhood Weather App
 
