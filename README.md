@@ -19,8 +19,6 @@
 
 This application I developed a dynamic weather web application that provides real-time weather information to users. By utilizing a weather API, the application delivers accurate and up-to-date weather data for locations worldwide.  Users can search for weather information in any city or region globally. The application provides a 5 day weather forecasts of a specific region's higest temp, wind, and humidity, allowing users to plan their activities and make informed decisions based on weather predictions.
 
-[![weatherAppPic](https://github.com/davjhall/davjhall/assets/112351877/6e4a9e39-e290-4ea7-a6a0-a9cf929ce5f1)](https://davjhall.github.io/the-friendly-neighborhood-weatherman)
-
 [![weatherAppPic](https://github-production-user-asset-6210df.s3.amazonaws.com/112351877/262212292-6e4a9e39-e290-4ea7-a6a0-a9cf929ce5f1.png)](https://davjhall.github.io/the-friendly-neighborhood-weatherman)
 
 
