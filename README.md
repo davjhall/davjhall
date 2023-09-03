@@ -23,7 +23,7 @@ Hello, I'm David 👋, a software developer with a strong interest in web develo
 
 🤝 **Networking:** I'm always open to connecting with fellow developers, mentors, or potential employers. Whether it's discussing the latest tech trends or exploring collaboration opportunities, I'm here for it.
 
-📬 **Get in Touch:** If you're interested in working together, have advice to share, or just want to chat about web development, you can reach me at [![GMAIL](https://img.shields.io/badge/Email_Me-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davjhall@gmail.com) or connect with me on [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/d-hall2305/)
+📬 **Get in Touch:** If you're interested in working together, have advice to share, or just want to chat about web development, you can e-mail me or connect with me on [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/d-hall2305/)
 
 Thank you for stopping by, and I look forward to connecting with you on this exciting journey into the world of web development!
 
