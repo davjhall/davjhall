@@ -21,7 +21,7 @@ This application I developed a dynamic weather web application that provides rea
 
 [![weatherAppPic](https://github.com/davjhall/davjhall/assets/112351877/6e4a9e39-e290-4ea7-a6a0-a9cf929ce5f1)](https://davjhall.github.io/the-friendly-neighborhood-weatherman)
 
-[![weatherAppPic](https://raw.githubusercontent.com/davjhall/davjhall/main/assets/112351877/6e4a9e39-e290-4ea7-a6a0-a9cf929ce5f1.png)](https://davjhall.github.io/the-friendly-neighborhood-weatherman)
+[![weatherAppPic](https://github-production-user-asset-6210df.s3.amazonaws.com/112351877/262212292-6e4a9e39-e290-4ea7-a6a0-a9cf929ce5f1.png)](https://davjhall.github.io/the-friendly-neighborhood-weatherman)
 
 
 
