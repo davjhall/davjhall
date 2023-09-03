@@ -15,7 +15,12 @@
 
 ***
 ### My Portfolio 
+
+Here, I'm thrilled to present a collection of my web development projects that I've designed, built, and collaborated with other developers on.
+
 [![ScreenShot OF Portfolio](https://github-production-user-asset-6210df.s3.amazonaws.com/112351877/265287690-d61f0caa-ff37-4300-809d-8718b41edb83.png)](https://davjhall.github.io/project-portfolio/)
+
+I hope you find inspiration and value in the projects I've shared. I look forward to connecting with you and exploring opportunities to work together.
 ***
 
 
